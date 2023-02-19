@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "655493682797",
+    "project_id": "login-bc026",
+    "storage_bucket": "login-bc026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655493682797:android:46e56cae377737b0541164",
+        "android_client_info": {
+          "package_name": "com.Ashfaq.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "655493682797-luoqce17pfhd0d7dgvc9t4s49kiqc905.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz4riqUxrg1ROOTyn7z0wB_rW4a6ngnfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "655493682797-luoqce17pfhd0d7dgvc9t4s49kiqc905.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
